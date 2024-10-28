@@ -1,0 +1,3 @@
+/mnt/d/code project/Clion/SetIRQToCPU/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/code project/Clion/SetIRQToCPU/cmake-build-debug/CMakeFiles/SetIRQToCPU.dir
+/mnt/d/code project/Clion/SetIRQToCPU/cmake-build-debug/CMakeFiles/edit_cache.dir

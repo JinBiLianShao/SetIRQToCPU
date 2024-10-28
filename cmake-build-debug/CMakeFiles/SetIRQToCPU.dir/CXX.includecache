@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/code project/Clion/SetIRQToCPU/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+string
+-
+bitset
+-
+cstdlib
+-
+iomanip
+-
+
